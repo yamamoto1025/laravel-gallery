@@ -3,7 +3,6 @@ Auto Generating Gallery
 
 This is build with the awesome php framework [Laravel 4](https://github.com/laravel/laravel).
 
-[See the demo](http://gallerydemo.martindilling.com)
 
 **Pretty, simple and easy gallery.**
 
